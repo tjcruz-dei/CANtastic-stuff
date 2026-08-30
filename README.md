@@ -10,6 +10,6 @@ Materials for the introduction to CAN and OBD-II security module.
 
 -[PSA DBC Confort](https://github.com/tjcruz-dei/CANtastic-stuff/tree/main/PSA%20DBC%20Confort)
 
--[PiCAN Bridge to MQTT](https://github.com/tjcruz-dei/CANtastic-stuff/tree/main/PiCAN%20Bridge%20to%20MQTT)
+-[PiCAN Bridge to MQTT](https://github.com/tjcruz-dei/CANtastic-stuff/tree/main/PiCAN%20Bridge%20to%20MQTT): this is the source code for the CAN-MQTT bridge. The implemented bridge uses python-can to receive frames from SocketCAN and cantools to decode them according to the PSA confort-bus DBC. Decoded messages are then serialized and published through an MQTT broker using the Eclipse Paho client.
 
 -[Schematics](https://github.com/tjcruz-dei/CANtastic-stuff/tree/main/Schematics)
