@@ -13,3 +13,5 @@ Materials for the introduction to CAN and OBD-II security module.
 -[PiCAN Bridge to MQTT](https://github.com/tjcruz-dei/CANtastic-stuff/tree/main/PiCAN%20Bridge%20to%20MQTT): this is the source code for the CAN-MQTT bridge. The implemented bridge uses *python-can* to receive frames from SocketCAN and *cantools* to decode them according to the PSA confort-bus DBC. Decoded messages are then serialized and published through an MQTT broker using the Eclipse Paho client.
 
 -[Schematics](https://github.com/tjcruz-dei/CANtastic-stuff/tree/main/Schematics): schematics for the FT-CAN adapter, the OBD-II ECU, the CAN bridge and the full testbed, also including the Citroën C4 Instrument Panel Cluster and the CAN-to-MQTT bridge.
+
+
