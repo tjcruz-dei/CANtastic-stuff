@@ -4,7 +4,7 @@
  *  Adapted for VAG OBD by tjcruz, 2024
  *  Second CAN bus support by tjcruz, 2026
  *  Simple Stellantis CAN GW added by tjcruz, 2026
- *  Problem: super-stupid mapping technique (once I have the time I should fix this)
+ *  Current limitation: plain mapping technique (TBF)
  *  
  */ 
 
