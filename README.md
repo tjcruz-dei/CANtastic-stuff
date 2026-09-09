@@ -1,8 +1,8 @@
 # CANtastic-stuff
-Materials for the introduction to CAN and OBD-II security module.
-
 ![image info](https://github.com/tjcruz-dei/CANtastic-stuff/blob/main/Images/Module_COVER.webp)
 
+
+Materials for the introduction to CAN and OBD-II security module.
 
 ## Contents
 
