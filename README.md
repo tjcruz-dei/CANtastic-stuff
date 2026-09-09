@@ -14,4 +14,5 @@ Materials for the introduction to CAN and OBD-II security module.
 
 -[Schematics](https://github.com/tjcruz-dei/CANtastic-stuff/tree/main/Schematics): schematics for the FT-CAN adapter, the OBD-II ECU, the CAN bridge and the full testbed, also including the Citroën C4 Instrument Panel Cluster and the CAN-to-MQTT bridge.
 
+These materials are provided for the Cybersecurity Laboratory unit, but they can also be useful for the Secure Infrastructure students.
 
