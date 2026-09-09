@@ -8,7 +8,7 @@ Materials for the introduction to CAN and OBD-II security module.
 
 -[Original OBD Simulator code - no bridging](https://github.com/tjcruz-dei/CANtastic-stuff/tree/main/Original%20OBD%20Simulator%20code%20-%20no%20bridging/OBD_Sim_Encoder): this is the code for the basic OBD-II ECU simulator, which also supports an encoder to provide an input that can be mapped to different PIDs.
 
--[PSA DBC Confort](https://github.com/tjcruz-dei/CANtastic-stuff/tree/main/PSA%20DBC%20Confort): the DBC file for the PSA confort bus used in the Citroën C4 B7 confort CAN bus.
+-[PSA DBC Confort](https://github.com/tjcruz-dei/CANtastic-stuff/tree/main/PSA%20DBC%20Confort): the DBC file for the PSA bus used in the Citroën C4 B7 INFO DIV CAN bus (it says "comfort" but it doesn't seem to be correct, at least for the C4 B7).
 
 -[PiCAN Bridge to MQTT](https://github.com/tjcruz-dei/CANtastic-stuff/tree/main/PiCAN%20Bridge%20to%20MQTT): this is the source code for the CAN-MQTT bridge. The implemented bridge uses *python-can* to receive frames from SocketCAN and *cantools* to decode them according to the PSA confort-bus DBC. Decoded messages are then serialized and published through an MQTT broker using the Eclipse Paho client.
 
