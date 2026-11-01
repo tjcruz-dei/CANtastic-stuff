@@ -3,6 +3,7 @@
  *  Original version written By: Cory J. Fowler  December 20th, 2016
  *  Adapted for VAG OBD by Tjcruz, 2024
  *  Encoder support by Tjcruz, 2025
+ *  Tested on Arduino Uno R3 with MCP_CAN library
  *  
  */ 
 

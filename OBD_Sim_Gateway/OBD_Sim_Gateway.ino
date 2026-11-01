@@ -5,6 +5,7 @@
  *  Second CAN bus support by tjcruz, 2026
  *  Simple Stellantis CAN GW added by tjcruz, 2026
  *  Current limitation: plain mapping technique (TBF)
+ *  Tested on Arduino Uno R3 with MCP_CAN library
  *  
  */ 
 
